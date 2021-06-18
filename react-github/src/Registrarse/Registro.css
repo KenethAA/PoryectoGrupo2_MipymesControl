@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+#trMovimiento {
+    border-bottom: 1px solid rgba(128, 128, 128, 0.178);
+}
+
+#tablaMovimientos {
+    border:1px solid rgba(128, 128, 128, 0.178);
+}
+
+/*=========================FOOTER================================*/
+
+footer {
+    background: #1b2a4e;
+    min-height: 100px;;
+}
+footer p{
+    color:#f3f3f3;
+    text-align:center;
+}
+#iconos  i {
+    font-size: 26px;
+    padding: 0 8px;
+    color:#f3f3f3;
+}
